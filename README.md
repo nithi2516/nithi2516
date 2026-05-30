@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=180&section=header&text=Nithya%20Shree%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3Aee0979%2C50%3Ab000ff%2C100%3A00d4ff&height=180&section=header&text=Nithya%20Shree%20E&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <div align="center">
 
@@ -228,4 +228,4 @@ Big Data                   ->  PySpark Optimization, Distributed Computing
   <em>Build efficient systems. Make ethical AI. Create real impact.</em>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6%2C11%2C20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3Aee0979%2C50%3Ab000ff%2C100%3A00d4ff&height=120&section=footer&animation=twinkling" width="100%"/>
