@@ -115,11 +115,16 @@ class NithyaShree:
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nithi2516&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/Total%20Commits-8-70a5fd?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-38bdae?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![IBM](https://img.shields.io/badge/IBM%20Certified-Data%20Analysis-70a5fd?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117)
+![GUVI](https://img.shields.io/badge/GUVI%20Certified-Generative%20AI-bf91f3?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
+![NSS](https://img.shields.io/badge/NSS%20Volunteer-2023--2025-38bdae?style=for-the-badge&logo=heart&logoColor=white&labelColor=0d1117)
 
 </div>
 
