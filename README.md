@@ -16,7 +16,7 @@ class NithyaShree:
     location   = "Chennai, Tamil Nadu, India"
     email      = "nithi2512006@gmail.com"
     linkedin   = "linkedin.com/in/nithyashreeelangovan"
-    degree     = "B.Tech — AI & Data Science (2023–2027)"
+    degree     = "B.Tech - AI and Data Science (2023-2027)"
     college    = "Velammal Engineering College"
     cgpa       = "In Progress"
 
@@ -29,7 +29,7 @@ class NithyaShree:
     currently_learning = [
         "Advanced Machine Learning",
         "Data Visualization with Tableau",
-        "Generative AI & LLMs"
+        "Generative AI and LLMs"
     ]
 
     fun_fact = "I once built a Connect Four game using pure Data Structures!"
@@ -52,13 +52,13 @@ class NithyaShree:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks and Libraries**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-**Data & BI Tools**
+**Data and BI Tools**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -68,7 +68,7 @@ class NithyaShree:
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
+**Tools and Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -172,7 +172,7 @@ class NithyaShree:
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements and Certifications
 
 <div align="center">
 
@@ -194,7 +194,7 @@ class NithyaShree:
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| B.Tech — Artificial Intelligence & Data Science | Velammal Engineering College | 2023 – 2027 | In Progress |
+| B.Tech - Artificial Intelligence and Data Science | Velammal Engineering College | 2023 - 2027 | In Progress |
 
 </div>
 
