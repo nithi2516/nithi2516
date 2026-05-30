@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Nithya+Shree+%F0%9F%91%8B;AI+%26+Data+Science+Student;Python+%7C+ML+%7C+Power+BI+Enthusiast;Building+Intelligent%2C+Ethical+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I%27m+Nithya+Shree+%F0%9F%91%8B;AI+%26+Data+Science+Student;Python+%7C+ML+%7C+Power+BI+Enthusiast;Building+Intelligent%2C+Ethical+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 class NithyaShree:
@@ -16,9 +16,8 @@ class NithyaShree:
     location   = "Chennai, Tamil Nadu, India"
     email      = "nithi2512006@gmail.com"
     linkedin   = "linkedin.com/in/nithyashreeelangovan"
-    degree     = "B.Tech - AI and Data Science (2023-2027)"
+    degree     = "B.Tech in AI and Data Science (2023-2027)"
     college    = "Velammal Engineering College"
-    cgpa       = "In Progress"
 
     stack = [
         "Python", "Machine Learning", "Deep Learning",
@@ -32,7 +31,7 @@ class NithyaShree:
         "Generative AI and LLMs"
     ]
 
-    fun_fact = "I once built a Connect Four game using pure Data Structures!"
+    fun_fact = "I built a Connect Four game using pure Data Structures!"
 
     def motto(self):
         return "Build efficient systems. Make ethical AI. Create real impact."
@@ -42,7 +41,7 @@ class NithyaShree:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -60,7 +59,7 @@ class NithyaShree:
 
 **Data and BI Tools**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
@@ -71,13 +70,13 @@ class NithyaShree:
 **Tools and Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -95,7 +94,7 @@ class NithyaShree:
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <div align="center">
 
@@ -105,114 +104,113 @@ class NithyaShree:
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
-[![Nithya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithi2516&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithi2516&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-8-70a5fd?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Public%20Repos-2-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Streak](https://img.shields.io/badge/Current%20Streak-3%20Days-38bdae?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![IBM](https://img.shields.io/badge/IBM%20Certified-Data%20Analysis-70a5fd?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117)
-![GUVI](https://img.shields.io/badge/GUVI%20Certified-Generative%20AI-bf91f3?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
-![NSS](https://img.shields.io/badge/NSS%20Volunteer-2023--2025-38bdae?style=for-the-badge&logo=heart&logoColor=white&labelColor=0d1117)
+![Commits](https://img.shields.io/badge/Total_Commits-8-70a5fd?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Public_Repos-2-bf91f3?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/Current_Streak-3_Days-38bdae?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![IBM](https://img.shields.io/badge/IBM_Certified-Data_Analysis-70a5fd?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117)
+![GUVI](https://img.shields.io/badge/GUVI_Certified-Generative_AI-bf91f3?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117)
+![NSS](https://img.shields.io/badge/NSS_Volunteer-2023_to_2025-38bdae?style=for-the-badge&logo=heart&logoColor=white&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 <details>
-<summary>🤖 <strong>Code Page Technologies Private Limited</strong> — AI Intern · May 2025 – Jun 2025 · On-site</summary>
+<summary>AI Intern at Code Page Technologies Pvt Ltd (May 2025 - Jun 2025, On-site)</summary>
 
-> `Python` `Machine Learning` `Data Preprocessing` `Model Training`
+**Tech:** Python, Machine Learning, Data Preprocessing, Model Training
 
-- Worked hands-on with Python for data preprocessing and model training pipelines, developing practical ML skills.
+- Worked hands-on with Python for data preprocessing and model training pipelines.
 - Gained direct exposure to how AI techniques are applied to solve real-world business problems.
-- Collaborated with the team to understand end-to-end AI project workflows in a professional environment.
+- Understood end-to-end AI project workflows in a professional environment.
 
 </details>
 
 <details>
-<summary>🌐 <strong>CodeBind Technologies</strong> — Web Development Intern · May 2025 – Jun 2025 · On-site</summary>
+<summary>Web Development Intern at CodeBind Technologies (May 2025 - Jun 2025, On-site)</summary>
 
-> `HTML` `CSS` `JavaScript` `Frontend Frameworks`
+**Tech:** HTML, CSS, JavaScript, Frontend Frameworks
 
-- Assisted in developing responsive websites using HTML, CSS, JavaScript, and modern frontend frameworks.
-- Gained practical experience structuring and building simple, user-friendly web pages from scratch.
-- Contributed to real client projects, improving understanding of professional web development workflows.
+- Assisted in developing responsive websites using HTML, CSS, and JavaScript.
+- Gained practical experience structuring and building simple, user-friendly web pages.
+- Contributed to real client projects improving understanding of professional web development.
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🎮 [**Connect Four Game**](#) | Python · Data Structures | Classic two-player board game implemented using core DSA concepts; demonstrates strong algorithmic thinking and game logic design |
-| 💳 [**Credit Card Transaction Database**](#) | MySQL | Relational database system for tracking and querying credit card transactions; built with normalized schema design and complex SQL queries |
-| 🏥 [**Patient Risk Stratification**](#) | Python · Machine Learning · AI | AI-driven model to classify patients by health risk level, supporting early intervention decisions; applied ML classification techniques to medical data |
-| 🧮 [**Tip Calculator**](#) | HTML · CSS · JavaScript | Responsive, user-friendly web app for calculating tips and splitting bills; clean UI with real-time calculations |
-| 🖼️ [**Photo Gallery Application**](#) | C++ · OOP | Object-oriented photo gallery app built in C++, demonstrating core OOP principles including inheritance, encapsulation, and polymorphism |
+| Connect Four Game | Python, Data Structures | Two-player board game built using core DSA concepts |
+| Credit Card Transaction Database | MySQL | Relational DB with normalized schema and complex SQL queries |
+| Patient Risk Stratification | Python, Machine Learning | AI model to classify patients by health risk level |
+| Tip Calculator | HTML, CSS, JavaScript | Responsive web app for calculating tips with real-time UI |
+| Photo Gallery Application | C++, OOP | Gallery app demonstrating inheritance and polymorphism |
 
 </div>
 
 ---
 
-## 🏅 Achievements and Certifications
+## Certifications
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 📜 | **Data Analysis with Python** | IBM Certified — mastered pandas, NumPy, and data wrangling |
-| 🤖 | **Generative AI** | GUVI Certified — explored LLMs, prompt engineering, and GenAI applications |
-| ⚡ | **PySpark** | Training Institute Certified — big data processing and Spark DataFrames |
-| 🌱 | **National Service Scheme (NSS)** | Active volunteer 2023–2025: led community service, awareness campaigns, and cleanliness drives |
-| 💻 | **Languages** | Tamil (Native) · English (Proficient) · Hindi (Intermediate) |
+| Achievement | Issuer | Details |
+|:------------|:-------|:--------|
+| Data Analysis with Python | IBM | Mastered pandas, NumPy, and data wrangling |
+| Generative AI | GUVI | LLMs, prompt engineering, and GenAI applications |
+| PySpark | Training Institute | Big data processing and Spark DataFrames |
+| NSS Volunteer | National Service Scheme | Community service 2023 to 2025 |
 
 </div>
 
 ---
 
-## 🎓 Education
+## Education
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.Tech - Artificial Intelligence and Data Science | Velammal Engineering College | 2023 - 2027 | In Progress |
+| Degree | Institution | Year | Status |
+|:-------|:------------|:----:|:------:|
+| B.Tech in AI and Data Science | Velammal Engineering College | 2023 to 2027 | In Progress |
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 ```
-🤖 Advanced Machine Learning   → Ensemble Methods, Feature Engineering, Model Tuning
-🧬 Deep Learning               → Neural Networks, CNNs, RNNs
-✨ Generative AI               → LLMs, Prompt Engineering, Diffusion Models
-📊 Data Visualization          → Tableau Dashboards, Power BI Advanced Analytics
-🔥 Big Data                    → PySpark Optimization, Distributed Computing
+Advanced Machine Learning  ->  Ensemble Methods, Feature Engineering, Model Tuning
+Deep Learning              ->  Neural Networks, CNNs, RNNs
+Generative AI              ->  LLMs, Prompt Engineering, Diffusion Models
+Data Visualization         ->  Tableau Dashboards, Power BI Advanced Analytics
+Big Data                   ->  PySpark Optimization, Distributed Computing
 ```
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -227,7 +225,7 @@ class NithyaShree:
 ---
 
 <div align="center">
-<i>"Build efficient systems. Make ethical AI. Create real impact."</i>
+  <em>Build efficient systems. Make ethical AI. Create real impact.</em>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
