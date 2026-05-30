@@ -81,13 +81,15 @@ class NithyaShree:
 
 <div align="center">
 
-<a href="https://github.com/nithi2516">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nithi2516&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&card_width=400"/>
-</a>
-&nbsp;
-<a href="https://github.com/nithi2516">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithi2516&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&card_width=340"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nithi2516&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nithi2516&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nithi2516&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nithi2516&theme=tokyonight" width="32%"/>
 
 </div>
 
@@ -117,7 +119,7 @@ class NithyaShree:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nithi2516&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nithi2516&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
